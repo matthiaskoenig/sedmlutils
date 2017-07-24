@@ -1,0 +1,14 @@
+python-libsbml>=5.15.0
+python-libsedml>=0.4.1
+python-libnuml
+# python-combine
+tecombine
+
+six
+pytest
+pytest-cov
+
+# -e git+https://github.com/opencobra/cobrapy.git@devel#egg=cobrapy
+# -e git+https://github.com/biosustain/optlang.git@devel#egg=optlang
+
+ipykernel>=0.6.1
